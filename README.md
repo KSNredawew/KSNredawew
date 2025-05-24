@@ -1,4 +1,5 @@
 KSN | Android Developer & Modder
+
 👨‍💻 About Me:
 
 🔹 12-year-old developer passionate about Android customization & modding
@@ -7,7 +8,7 @@ KSN | Android Developer & Modder
 
 🔹 Experienced in Android ROM development, recovery porting, and kernel tweaking
 
-🔹 Constantly learning Linux, Java, Kotlin, and C/C++ for deeper Android hacking
+🔹 Constantly learning C/C++ Python for deeper Android hacking
 
 🛠 Projects & Skills:
 
