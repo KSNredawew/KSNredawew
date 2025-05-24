@@ -1,8 +1,32 @@
-# Hi, I'm KSN welcome!
-a passionate Android developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to real-world projects.
+KSN | Android Developer & Modder
+👨‍💻 About Me:
 
-🔭 I’m currently working on Android Development
+🔹 12-year-old developer passionate about Android customization & modding
 
-🌱 I’m currently learning Advanced Android techniques and tools
+🔹 Creator of TWRP kernels, Magisk modules, and system tweaks
 
-👯 I’m looking to collaborate on Open Source Android Projects
+🔹 Experienced in Android ROM development, recovery porting, and kernel tweaking
+
+🔹 Constantly learning Linux, Java, Kotlin, and C/C++ for deeper Android hacking
+
+🛠 Projects & Skills:
+
+📌 Custom Kernels (TWRP, performance/battery optimizations)
+
+📌 Magisk Modules (systemless mods, patches, and enhancements)
+
+📌 Android ROMs & Recoveries (building from source, porting devices)
+
+📌 Scripting & Automation (Bash, Python for Android tools)
+
+🚀 Goals:
+
+🔥 Contribute to open-source Android projects
+
+🔥 Learn reverse engineering & security research
+
+🔥 Build unique Android mods that improve user experience
+
+📫 Connect:
+
+💬 Telegram: [https://t.me/ledoc11]
