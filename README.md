@@ -30,4 +30,4 @@ KSN | Android Developer & Modder
 
 📫 Connect:
 
-💬 Telegram: [https://t.me/ledoc11]
+💬 Telegram: [https://t.me/ahmedksn]
